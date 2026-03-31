@@ -30,8 +30,7 @@
 - 🔹 ProShop  
 
 ---
-
-## 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=tokyonight&hide_border=true" />
 ## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=dark&hide_border=true" />
