@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**AdityaPaneru/AdityaPaneru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚔️ Aditya Paneru ⚔️</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF2E2E&center=true&vCenter=true&lines=Relentless+Execution;Built+Through+Discipline;Sharpening+Daily" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About
+- 🎓 MTech CSE (AI / Data Science)
+- ⚔️ Focused on DSA (C++)
+- 🤖 Exploring AI/ML (Python)
+- 🚀 Building real systems
+
+---
+
+## ⚒️ Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux" />
+</p>
+
+---
+
+## 📌 Projects
+- 🔹 LRU Cache  
+- 🔹 Distributed Key-Value Store  
+- 🔹 E-commerce Website  
+- 🔹 ProShop  
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## ⚔️ Principle
+_"Discipline defines the outcome."_
