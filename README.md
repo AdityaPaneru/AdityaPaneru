@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">⚔️ Aditya Paneru ⚔️</h1>
 
 <p align="center">
@@ -17,24 +15,24 @@
 ---
 
 ## ⚒️ Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux" />
 </p>
 
 ---
 
 ## 📌 Projects
-- 🔹 LRU Cache  
-- 🔹 Distributed Key-Value Store  
-- 🔹 E-commerce Website  
-- 🔹 ProShop  
+- 🔹 **LRU Cache (C++)** — Efficient cache using DLL + HashMap  
+- 🔹 **Distributed Key-Value Store** — Basic system design implementation  
+- 🔹 **E-commerce Website** — Full-stack project  
+- 🔹 **ProShop** — Online shopping platform  
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=tokyonight&hide_border=true" />
+
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPaneru&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPaneru&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
