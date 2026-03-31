@@ -1,214 +1,176 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=⚔️%20ADITYA%20PANERU%20⚔️&fontSize=55&fontColor=FF2E2E&animation=fadeIn&fontAlignY=40&desc=侍%20|%20Warrior%20of%20the%20Stack%20|%20Forged%20in%20Discipline%20|%20侍&descAlignY=62&descColor=cc0000&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Paneru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Engineer.%20%20Researcher.%20%20Builder.&descAlignY=65&descColor=CC0000&descSize=20)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=20&duration=2800&pause=800&color=FF2E2E&center=true&vCenter=true&width=700&lines=⚔️+Code+with+the+focus+of+a+blade.;☯️+Discipline+is+the+sharpest+weapon.;🔥+MTech+CSE+%7C+AI+%7C+MERN+%7C+DSA+Warrior;忍耐+%7C+Patience.+鍛錬+%7C+Training.+勝利+%7C+Victory.;Building+real+systems.+Crushing+real+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=750&lines=Building+systems+that+matter.;Learning+AI+%2F+ML+—+from+first+principles.;DSA+%7C+MERN+%7C+Machine+Learning+%7C+System+Design;The+expert+in+anything+was+once+a+beginner+who+refused+to+quit.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/RO9tbqqBhs0cM/giphy.gif" width="320"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-## `📜 Warrior's Dossier`
+## About
 
-```yaml
-┌──────────────────────────────────────────┐
-│  CLASSIFIED — CLAN SCROLL OF PANERU      │
-├──────────────────────────────────────────┤
-│  Name       : Aditya Paneru              │
-│  Clan Title : Samurai of the Stack       │
-│  Rank       : MTech CSE — AI/Data Sci    │
-│  Base       : India                      │
-│  Primary    : DSA (C++) + MERN Stack     │
-│  Secondary  : AI / ML (Python)           │
-│  Mission    : Build. Solve. Conquer.     │
-│  Status     : ⚔️  Actively Sharpening   │
-│  Creed      : 鍛錬が運命を決める          │
-│             : Discipline defines destiny │
-└──────────────────────────────────────────┘
+I'm a graduate student in Computer Science (AI / Data Science) who believes in **building things that actually work** — not just writing code.
+
+Right now I'm at an inflection point: combining years of systems thinking and full-stack engineering with a deep dive into **Machine Learning and AI** — going from the math up, not the tutorials down.
+
+I don't just want to use AI tools. I want to understand, build, and eventually push what's possible with them.
+
 ```
+MTech CSE  ·  AI & Data Science
+MERN Stack  ·  C++  ·  Python
+DSA  ·  System Design  ·  ML (in progress)
+```
+
+> *"The mountains do not rise to meet you. You rise to meet them."*
 
 <br clear="right"/>
 
 ---
 
-<img align="left" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="280"/>
+## What I'm Working On
 
-## `🏯 The Dojo — Current Training`
+```yaml
+Systems    : DSA in C++ — deep, not surface-level
+             Distributed systems & system design
+             
+Full Stack : MERN — building real products, not tutorials
 
+AI / ML    : Linear algebra, probability — foundations first
+             Supervised & unsupervised learning
+             Moving toward deep learning and neural networks
+             
+Goal       : Be the engineer who understands the model,
+             not just the one who calls the API.
 ```
-🗡  DSA Mastery          ██████████░  90%
-⚙️  MERN Systems         ████████░░░  80%
-🤖  AI / ML Pipelines    ███████░░░░  70%
-🏗️  System Design        ██████░░░░░  60%
-☁️  Cloud & DevOps       █████░░░░░░  50%
-```
-
-> *"The sword is sharpened by the whetstone.  
-> The coder is sharpened by the problem."*
-
-<br clear="left"/>
 
 ---
 
-## `⚔️ Battle Arsenal — Weapons of War`
+## Tech Stack
 
 <div align="center">
 
-### 🗡️ Combat Languages
-![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=DC143C&labelColor=0d0d0d)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=DC143C&labelColor=0d0d0d)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=DC143C&labelColor=0d0d0d)
+**Languages**
 
-### 🛡️ Frontline Defense (Frontend)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=DC143C&labelColor=0d0d0d)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=DC143C&labelColor=0d0d0d)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=DC143C&labelColor=0d0d0d)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=CC0000)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=CC0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=CC0000)
 
-### 🔥 Siege Weapons (Backend)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=DC143C&labelColor=0d0d0d)
-![Express.js](https://img.shields.io/badge/Express.js-0d0d0d?style=for-the-badge&logo=express&logoColor=DC143C&labelColor=0d0d0d)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=DC143C&labelColor=0d0d0d)
+**Frontend**
 
-### 🏹 Scout Tools
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=DC143C&labelColor=0d0d0d)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=0d0d0d)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=DC143C&labelColor=0d0d0d)
-![VS Code](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=DC143C&labelColor=0d0d0d)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=CC0000)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=CC0000)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=CC0000)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=CC0000)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=CC0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=CC0000)
+
+**ML & Tools (active learning)**
+
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=CC0000)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=CC0000)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=CC0000)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=CC0000)
+
+**Environment**
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=CC0000)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=CC0000)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visual-studio-code&logoColor=CC0000)
 
 </div>
 
 ---
 
-## `🧠 The Battle Pipeline — How I Think`
+## How I Approach Problems
 
 <div align="center">
 
 ```
-    🧩 Problem Arrives
-          │
-          ▼
-   ⚔️  Understand the Enemy
-   (Read. Think. Dissect.)
-          │
-          ▼
-   🗺️  Map the Battlefield
-   (Design the approach)
-          │
-          ▼
-   🔨  Forge the Weapon
-   (Write clean, optimal code)
-          │
-          ▼
-   🧪  Test in Combat
-   (Edge cases. Stress tests.)
-          │
-          ▼
-   🚀  Deploy to the Clan
-   (Ship real systems.)
-          │
-          ▼
-    ✅ Victory — 勝利
+Understand deeply  →  Design deliberately  →  Build cleanly  →  Iterate honestly
 ```
 
 </div>
 
+Most people skip to building. I've learned that the thinking before the first line of code is where the real work happens. This applies whether I'm solving a DSA problem, designing a backend, or working through a machine learning paper.
+
 ---
 
-## `📌 War Campaigns — Projects`
+## Projects
 
-<div align="center">
-
-| ⚔️ Campaign | 📜 Mission Brief | 🛡️ Weapons Used |
+| Project | What it is | Stack |
 |:---|:---|:---|
-| **LRU Cache Engine** | Blazing-fast cache — DLL + HashMap. O(1) ops. | `C++` |
-| **Distributed KV Store** | Fault-tolerant system design. Multi-node architecture. | `C++` `System Design` |
-| **E-Commerce Battlefield** | Full-stack warrior-grade shopping platform | `React` `Node` `MongoDB` |
-| **ProShop** | Feature-rich marketplace with auth & payment flows | `MERN Stack` |
-
-</div>
+| **LRU Cache** | O(1) get/put using doubly linked list + hashmap | `C++` |
+| **Distributed Key-Value Store** | Fault-tolerant, multi-node KV system | `C++` · System Design |
+| **E-Commerce Platform** | Full-stack product with auth, cart, payments | `MERN` |
+| **ProShop** | Production-grade online marketplace | `React` · `Node` · `MongoDB` |
 
 ---
 
-## `📊 War Records — GitHub Intelligence`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=blood_dark&hide_border=true&title_color=FF2E2E&icon_color=FF2E2E&text_color=ffffff&bg_color=0d0d0d&ring_color=cc0000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPaneru&theme=dark&hide_border=true&ring=FF2E2E&fire=FF2E2E&currStreakLabel=FF2E2E&background=0d0d0d&stroke=880000&currStreakNum=ffffff&sideLabels=FF2E2E&sideNums=ffffff&dates=888888" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPaneru&layout=donut&theme=blood_dark&hide_border=true&title_color=FF2E2E&text_color=ffffff&bg_color=0d0d0d" height="200"/>
-
-</div>
-
----
-
-## `🏆 Clan Honours — Trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaPaneru&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `📈 The Battlefield Map — Activity`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaPaneru&bg_color=0d0d0d&color=FF2E2E&line=880000&point=FF2E2E&area=true&area_color=330000&hide_border=true&custom_title=⚔️%20Aditya's%20Battle%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `🔥 Final Message from the Clan`
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="380"/>
+## ML Learning Path *(current chapter)*
 
 ```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║     ⚔️  THE CODE OF THE SAMURAI DEVELOPER  ⚔️   ║
-║                                                  ║
-║  一、 Write code that cuts clean.                ║
-║  二、 Debug like you hunt an enemy.              ║
-║  三、 Never ship what you would be ashamed of.   ║
-║  四、 Rest, but never stop sharpening.           ║
-║  五、 The best commit message is working code.   ║
-║                                                  ║
-║  鍛錬が運命を決める。                             ║
-║  "Discipline defines the outcome."               ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+Phase 1 — Foundations          ✅  Linear algebra · Probability · Calculus
+Phase 2 — Core ML              🔄  Regression · Classification · Clustering
+Phase 3 — Model Engineering    ⬜  Feature engineering · Evaluation · Pipelines
+Phase 4 — Deep Learning        ⬜  Neural networks · Backprop · CNNs · RNNs
+Phase 5 — Applied AI           ⬜  NLP · Computer Vision · Model deployment
 ```
 
-</div>
+> Not rushing it. Building it right.
 
 ---
 
-## `🌐 Send a Raven — Contact`
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=0d0d0d)]((https://www.linkedin.com/in/aditya-paneru-49b9b5206/))
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=0d0d0d)](https://github.com/AdityaPaneru)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=0d0d0d)(https://leetcode.com/AdityaPaneru)](https://leetcode.com/u/Aadi_Paneru/)]
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=blood_dark&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=dddddd&bg_color=0d0d0d" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPaneru&theme=dark&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&background=0d0d0d&stroke=330000&currStreakNum=ffffff&sideLabels=CC0000&sideNums=ffffff&dates=777777" height="160"/>
 
-<br/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaPaneru&color=DC143C&style=for-the-badge&label=WARRIORS+WHO+VISITED)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPaneru&bg_color=0d0d0d&color=CC0000&line=660000&point=CC0000&area=true&area_color=1a0000&hide_border=true" width="90%"/>
 
 </div>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&text=一日一善%20|%20One%20step%20forward%2C%20every%20day.&fontSize=16&fontColor=cc0000&fontAlignY=65)
+## Principles
+
+```
+I.    Do the hard thing first. Comfort is the enemy of growth.
+II.   Understand before you build. Build before you theorize.
+III.  Slow is smooth. Smooth is fast.
+IV.   The discipline you show up with is the skill you end up with.
+V.    Learn in public. Stay humble about how much remains.
+```
+
+---
+
+<div align="center">
+
+*"I have no talent. I have only the discipline to show up."*
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=CC0000)](https://linkedin.com/in/AdityaPaneru)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=CC0000)](https://github.com/AdityaPaneru)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=CC0000)](https://leetcode.com/AdityaPaneru)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaPaneru&color=CC0000&style=flat-square&label=profile+views)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
