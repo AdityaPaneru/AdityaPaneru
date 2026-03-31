@@ -32,8 +32,10 @@
 ---
 
 ## 📊 Stats
+## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaneru&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPaneru&theme=dark&hide_border=true" />
 </p>
 
 ---
