@@ -199,9 +199,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=0d0d0d)](https://linkedin.com/in/AdityaPaneru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=0d0d0d)]((https://www.linkedin.com/in/aditya-paneru-49b9b5206/))
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=0d0d0d)](https://github.com/AdityaPaneru)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=0d0d0d)](https://leetcode.com/AdityaPaneru)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=0d0d0d)(https://leetcode.com/AdityaPaneru)](https://leetcode.com/u/Aadi_Paneru/)]
 
 <br/>
 
